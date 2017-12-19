@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Echo &#8211; Smiffums</title>
+	<atom:link href="/category/echo/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>The artistic endeavours of the Smiff</description>
+	<lastBuildDate>Tue, 19 Dec 2017 01:15:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Echo Hand</title>
+		<link>/2017/12/19/echo-hand/</link>
+		<pubDate>Tue, 19 Dec 2017 01:08:55 +0000</pubDate>
+		<dc:creator><![CDATA[smiffums]]></dc:creator>
+				<category><![CDATA[Echo]]></category>
+
+		<guid isPermaLink="false">/?p=49</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img class="alignnone size-medium wp-image-51" src="/wp-content/uploads/2017/12/ffff-1-300x230.jpg" alt="" width="300" height="230" srcset="/wp-content/uploads/2017/12/ffff-1-300x230.jpg 300w, /wp-content/uploads/2017/12/ffff-1-768x590.jpg 768w, /wp-content/uploads/2017/12/ffff-1-1024x786.jpg 1024w, /wp-content/uploads/2017/12/ffff-1-1200x921.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Echo</title>
+		<link>/2017/12/19/echo/</link>
+		<pubDate>Tue, 19 Dec 2017 00:49:52 +0000</pubDate>
+		<dc:creator><![CDATA[smiffums]]></dc:creator>
+				<category><![CDATA[Echo]]></category>
+
+		<guid isPermaLink="false">/?p=33</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img class="alignnone size-medium wp-image-30" src="/wp-content/uploads/2017/12/echo_suit-212x300.png" alt="" width="212" height="300" srcset="/wp-content/uploads/2017/12/echo_suit-212x300.png 212w, /wp-content/uploads/2017/12/echo_suit-768x1086.png 768w, /wp-content/uploads/2017/12/echo_suit-724x1024.png 724w, /wp-content/uploads/2017/12/echo_suit-1200x1697.png 1200w" sizes="(max-width: 212px) 100vw, 212px" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Echo in Suit</title>
+		<link>/2017/12/19/echo-in-suit/</link>
+		<pubDate>Tue, 19 Dec 2017 00:48:47 +0000</pubDate>
+		<dc:creator><![CDATA[smiffums]]></dc:creator>
+				<category><![CDATA[Echo]]></category>
+
+		<guid isPermaLink="false">/?p=31</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img class="alignnone size-medium wp-image-29" src="/wp-content/uploads/2017/12/echo_in_suit_1-1-212x300.png" alt="" width="212" height="300" srcset="/wp-content/uploads/2017/12/echo_in_suit_1-1-212x300.png 212w, /wp-content/uploads/2017/12/echo_in_suit_1-1-768x1086.png 768w, /wp-content/uploads/2017/12/echo_in_suit_1-1-724x1024.png 724w, /wp-content/uploads/2017/12/echo_in_suit_1-1-1200x1697.png 1200w" sizes="(max-width: 212px) 100vw, 212px" /></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
